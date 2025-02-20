@@ -23,4 +23,4 @@ From *"Songs to Listen to While Your Sim Drowns"* to *"Music for a Dramatic Star
 ## Why This Project?  
 This project combines humor, music discovery, and social engagement. It’s a fun, interactive way to explore full-stack development, authentication, API design, and UI/UX.  
 
-After all, who wouldn’t appreciate a playlist called *"Songs to Walk Like a Villain To"* or wonder what’s actually going on in people’s heads?  
+After all, who wouldn’t appreciate a playlist called *"Songs to Walk Like a Villain To"* or who wouldn't wonder what’s actually going on in people’s heads?  
